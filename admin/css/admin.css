@@ -1,0 +1,40 @@
+body{
+    background-image: url("/styles/img/medical-563427_1280.jpg");
+}
+
+.admin{
+    padding:20px;
+    margin:20px;
+    background-color: rgb(11, 6, 41);
+}
+.card{
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.1);
+    background-color: black;
+
+}
+.btn{
+    display: flex;
+    /* position: relative; */
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title{
+    color: white;
+}
+
+#login{
+    color:white;
+}
+
+.login{
+    align-items: center;
+
+}
+.col-md-6, .form-check, .mb-3{
+    color:white;
+}
